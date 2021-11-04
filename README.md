@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin Atkinson</h1>
 <h3 align="center">Front-End Developer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=austinjatkinson&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="austinjatkinson" /></p>
-<p align="left">I am currently studying front-end software development through Promineo Tech. As an active Product Analyst for Aatrix Software.</p>
+<p align="left">I am currently studying front-end software development through Promineo Tech. As an active Product Analyst for Aatrix Software. I currently lead quality assurance analyst for the Affordable Care Act preparation software. I diagnose and resolve issues within agency products alongside our development team and assist in creating product deadlines..</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/atkinson-austin-dev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atkinson-austin-dev" width="40" height="30" align="center" /></a></p>
 <h3 align="left">Languages and Tools:</h3>
